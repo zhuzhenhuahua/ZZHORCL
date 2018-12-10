@@ -1,2 +1,0 @@
-# ZZHORCL
-给予ORCL支持
